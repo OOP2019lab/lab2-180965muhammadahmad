@@ -22,6 +22,7 @@ void readDataFromFile( gitHubUser * users, string filepath)
 	
 	
 	}
+	in.close(filepath);
 
 
 
